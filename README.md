@@ -8,11 +8,17 @@ https://web-17916.web.app/
 Change Your Firebase Congif from firebase.js
 
   apiKey: 'AIzaXXXXXXXXXXXXXXXXXXXXXXX',
+  
   authDomain: 'test-XXXX.firebaseapp.com',
+  
   databaseURL: 'https://test-XXXXXX.firebaseio.com',
+  
   projectId: 'test-XXXX',
+  
   storageBucket: 'test-XXXX.appspot.com',
+  
   messagingSenderId: 'XXXXXXX',
+  
   appId: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
 
 ## Available Scripts
